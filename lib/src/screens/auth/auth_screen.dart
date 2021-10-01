@@ -9,7 +9,6 @@ class AuthScreen extends StatelessWidget {
       backgroundColor: Color(0xFFF3F4F6),
       navigationBar: CupertinoNavigationBar(
         backgroundColor: CupertinoColors.white,
-        border: Border(),
         middle: Text('Авторизация'),
       ),
       child: SafeArea(
